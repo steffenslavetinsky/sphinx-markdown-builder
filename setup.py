@@ -13,13 +13,13 @@ with open(path.join(here, 'requirements.txt'), 'r', encoding='utf-8') as f:
         install_requires.append(line.split('=')[0].strip('<~>'))
 
 setup(
-    name='sphinx-markdown-builder',
+    name='sphinxnotes-markdown-builder',
     version='0.5.4',
-    description='sphinx builder that outputs markdown files',
+    description='sphinx builder that outputs markdown files' + ', an active fork of clayrisser/sphinx-markdown-builder',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/codejamninja/sphinx-markdown-builder',
-    author='Jam Risser',
+    url='https://github.com/sphinx-notes/markdown-builder',
+    author='Shengyu Zhang',
     author_email='jam@codejam.ninja',
     license='MIT',
 

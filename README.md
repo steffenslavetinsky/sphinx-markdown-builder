@@ -1,11 +1,11 @@
-# sphinx-markdown-builder
+ > **NOTE: This is an active fork of clayrisser/sphinx-markdown-builder.**
 
-[![PyPI](https://img.shields.io/pypi/v/sphinx-markdown-builder.svg?style=flat-square)](https://pypi.org/project/sphinx-markdown-builder)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/sphinx-markdown-builder.svg?style=flat-square)](https://pypi.org/project/sphinx-markdown-builder)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sphinx-markdown-builder.svg?style=flat-square)](https://pypi.org/project/sphinx-markdown-builder)
-[![GitHub stars](https://img.shields.io/github/stars/codejamninja/sphinx-markdown-builder.svg?style=flat-square&label=Stars)](https://github.com/codejamninja/sphinx-markdown-builder)
-[![Liberapay receiving](https://img.shields.io/liberapay/receives/codejamninja.svg?style=flat-square)](https://liberapay.com/codejamninja/donate)
-[![Liberapay patrons](https://img.shields.io/liberapay/patrons/codejamninja.svg?style=flat-square)](https://liberapay.com/codejamninja/donate)
+# sphinxnotes-markdown-builder
+
+[![PyPI](https://img.shields.io/pypi/v/sphinxnotes-markdown-builder.svg?style=flat-square)](https://pypi.org/project/sphinxnotes-markdown-builder)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/sphinxnotes-markdown-builder.svg?style=flat-square)](https://pypi.org/project/sphinxnotes-markdown-builder)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sphinxnotes-markdown-builder.svg?style=flat-square)](https://pypi.org/project/sphinxnotes-markdown-builder)
+[![GitHub stars](https://img.shields.io/github/stars/sphinx-notes/markdown-builder.svg?style=flat-square&label=Stars)](https://github.com/sphinx-notes/markdown-builder)
 
 > sphinx builder that outputs markdown files
 
@@ -34,7 +34,7 @@ Silicon Hills offers premium Node and React develpoment and support services. Ge
 ## Installation
 
 ```sh
-pip3 install sphinx-markdown-builder
+pip3 install sphinxnotes-markdown-builder
 ```
 
 
@@ -61,42 +61,33 @@ sphinx-build -M markdown ./ build
 
 ## Support
 
-Submit an [issue](https://github.com/codejamninja/sphinx-markdown-builder/issues/new)
+Submit an [issue](https://github.com/sphinx-notes/markdown-builder/issues/new)
 
 
 ## Screenshots
 
-[Contribute](https://github.com/codejamninja/sphinx-markdown-builder/blob/master/CONTRIBUTING.md) a screenshot
+[Contribute](https://github.com/sphinx-notes/markdown-builder/blob/master/CONTRIBUTING.md) a screenshot
 
 
 ## Contributing
 
-Review the [guidelines for contributing](https://github.com/codejamninja/sphinx-markdown-builder/blob/master/CONTRIBUTING.md)
+Review the [guidelines for contributing](https://github.com/sphinx-notes/markdown-builder/blob/master/CONTRIBUTING.md)
 
 
 ## License
 
-[MIT License](https://github.com/codejamninja/sphinx-markdown-builder/blob/master/LICENSE)
+[MIT License](https://github.com/sphinx-notes/markdown-builder/blob/master/LICENSE)
 
 [Jam Risser](https://codejam.ninja) © 2018
 
 
 ## Changelog
 
-Review the [changelog](https://github.com/codejamninja/sphinx-markdown-builder/blob/master/CHANGELOG.md)
+Review the [changelog](https://github.com/sphinx-notes/markdown-builder/blob/master/CHANGELOG.md)
 
 
 ## Credits
 
 * [Jam Risser](https://codejam.ninja) - Author
 * [Matthew Brett](https://github.com/matthew-brett/nb2plots/blob/master/nb2plots/doctree2md.py) - doctree2md
-
-
-## Support on Liberapay
-
-A ridiculous amount of coffee ☕ ☕ ☕ was consumed in the process of building this project.
-
-[Add some fuel](https://liberapay.com/codejamninja/donate) if you'd like to keep me going!
-
-[![Liberapay receiving](https://img.shields.io/liberapay/receives/codejamninja.svg?style=flat-square)](https://liberapay.com/codejamninja/donate)
-[![Liberapay patrons](https://img.shields.io/liberapay/patrons/codejamninja.svg?style=flat-square)](https://liberapay.com/codejamninja/donate)
+* [Shengyu Zhang](https://silverrainz.me) - Current maintainer
