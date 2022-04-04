@@ -14,7 +14,7 @@ with open(path.join(here, 'requirements.txt'), 'r', encoding='utf-8') as f:
 
 setup(
     name='sphinxnotes-markdown-builder',
-    version='0.5.4',
+    version='0.5.5',
     description='sphinx builder that outputs markdown files' + ', an active fork of clayrisser/sphinx-markdown-builder',
     long_description=long_description,
     long_description_content_type='text/markdown',
