@@ -18,8 +18,8 @@ setup(
     description='sphinx builder that outputs markdown files',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/codejamninja/sphinx-markdown-builder',
-    author='Jam Risser',
+    url='https://github.com/sphinx-notes/markdown-builder',
+    author='Shengyu Zhang',
     author_email='jam@codejam.ninja',
     license='MIT',
 
